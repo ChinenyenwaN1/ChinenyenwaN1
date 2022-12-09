@@ -1,14 +1,7 @@
-### Hi there 👋
-####                            AM A CLOUD ENGINEER
-<img align="right" alt="coding" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
+<h1 align="center">Hi 👋, I'm Chinenyenwa Nwogeh</h1>
+<h3 align="center">I am a Cloud Engineer </h3>
 
-
-
-
-
-
-
-
+<img align="Center" alt="coding" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 
 - 🔭 I’m currently working on becoming a DevOp Professional
 - 🌱 I’m currently learning DevOps
