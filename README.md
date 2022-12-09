@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chinenyenwa Nwogeh</h1>
 <h3 align="center">I am a Cloud Engineer </h3>
 
-<img align="Center" alt="coding" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
-  
-- 🔭 I’m currently working on becoming a DevOp Professional
+<img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
+
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with people
-- 💬 Ask me about AWS Services
-- 📫 How to reach me: johnchinenye6@gmail.com
+- 📫 How to reach me: **johnchinenye6@gmail.com**
 - 😄 Pronouns: ... she
-- ⚡ Fun fact: ... I love cooking 🤣
+- ⚡ Fun fact: ... **I love cooking** 🤣
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
