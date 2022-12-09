@@ -2,7 +2,7 @@
 <h3 align="center">I am a Cloud Engineer </h3>
 
 <img align="Center" alt="coding" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
-
+  
 - 🔭 I’m currently working on becoming a DevOp Professional
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with people
@@ -31,3 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinenyenwaN1&" alt="ChinenyenwaN1" /></p>
 
+  </a>
+</div>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=ChinenyenwaN1&style=flat-square&color=blue" alt=""/>
