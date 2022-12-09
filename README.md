@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://mobile.twitter.com/nwogeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nwogeh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chinenyenwa-nwogeh-158959116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annfelix70" height="30" width="40" /></a>
-<a href="https://www.instagram.com/liberator_mrs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liberator_mrs" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/nwogeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nwogeh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinenyenwa-nwogeh-158959116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinenyenwa-nwogeh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/Chinenyenwa.n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Chinenyenwa.n" height="30" width="40" /></a>
 <a href="https://medium.com/@Chinenyenwa-Nwogeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nwogehchinenyenwa" height="30" width="40" /></a>
 <a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nwogehchinenyenwa" height="30" width="40" /></a>
 </p>
