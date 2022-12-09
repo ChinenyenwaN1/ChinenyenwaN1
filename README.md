@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on becoming a Devop Professional
+- 🔭 I’m currently working on becoming a DevOp Professional
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with people
 - 💬 Ask me about AWS Services
