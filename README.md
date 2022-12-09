@@ -31,7 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinenyenwaN1&" alt="ChinenyenwaN1" /></p>
 
-  </a>
-</div>
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=ChinenyenwaN1&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/?username=ChinenyenwaN1&color=lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=ChinenyenwaN1.ChinenyenwaN1)
