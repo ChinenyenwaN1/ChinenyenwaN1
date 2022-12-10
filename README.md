@@ -3,6 +3,12 @@
 
 <img align="centre" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
 
+| Documentation               | Respository   |
+| -------------               | ------------- |
+| DevOps Project Documentation| https://github.com/ChinenyenwaN1/DevOps-Project-Documentation|
+| Hands On Lab on AWS Services| https://github.com/ChinenyenwaN1/Hands-On-Lab-on-AWS-Services|
+
+
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with people
 - 📫 How to reach me: **johnchinenye6@gmail.com**
